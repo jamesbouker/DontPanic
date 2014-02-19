@@ -1,8 +1,6 @@
 DontPanic
 =========
 
-Don't Panic.
-
 A simple app that animates changes in the background color when 
 pressing a button and a soccer ball when pressing a button.
 
